@@ -1,0 +1,10 @@
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;  /* espaço entre as células */
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px; /* padding é o espaço interno */
